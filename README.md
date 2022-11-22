@@ -26,7 +26,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL: [Github](https://github.com/ramz04/Huddle-Landing-Page/)
-- Live Site URL: [Netlify]
+- Live Site URL: [Netlify](https://huddle-landing-page-three-red.vercel.app/)
 ### Built with
 
 - Semantic HTML5 markup
