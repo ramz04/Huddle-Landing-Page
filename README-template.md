@@ -19,12 +19,13 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 
 ### Screenshot
+![Screenshot (4)](https://user-images.githubusercontent.com/55752850/203425191-63c93a3b-073c-4563-97c4-e324be421346.png)
 
 
 
 ### Links
 
-- Solution URL: [Github]
+- Solution URL: [Github](https://github.com/ramz04/Huddle-Landing-Page/)
 - Live Site URL: [Netlify]
 ### Built with
 
