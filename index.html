@@ -23,7 +23,11 @@
           colors: {
             violet: 'hsl(257, 40%, 49%)',
             softmagenta: 'hsl(300, 69%, 71%)'
-          }
+          },
+          backgroundImage: {
+            bgDesktop: "url('./images/bg-desktop.svg')",
+            bgMobile: "url('./images/bg-mobile.svg')",
+          },
         }
       }
     }
@@ -35,7 +39,7 @@
     .attribution a { color: hsl(228, 45%, 44%); }
   </style> -->
 </head>
-<body class="bg-[url(images/bg-mobile.svg)] bg-violet bg-contain md:bg-auto bg-no-repeat md:bg-[url(images/bg-Desktop.svg)] font-OpenSans p-6 ">
+<body class="bg-bgMobile bg-violet bg-contain md:bg-auto bg-no-repeat md:bg-bgDesktop font-OpenSans p-6 ">
 
   <!-- Build The Community Your Fans Will Love
 
